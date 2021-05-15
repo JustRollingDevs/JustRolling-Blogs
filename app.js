@@ -17,7 +17,7 @@ const dbURI = process.env.DB_URL;
 
 mongoose
   .connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then((result) => app.listen(3000, 'https://justrollingblog.herokuapp.com'))
+  .then((result) => app.listen(process.env.PORT))
   .catch((err) => console.log(err));
 
 // register view engine

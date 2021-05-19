@@ -1,3 +1,3 @@
 # JustRolling-Blogs
- A Node.JS Blog built with Express.JS and MongoDB beside EJS
- This blog enable you to read, write and delete Blogs 
+ <p>A <b>Node.JS</b> Blog built with <b>Express.JS</b> and <b>MongoDB</b> beside <b>EJS</b></p>
+ <p>This blog enable you to <b>read, write and delete</b> Blogs</p>
